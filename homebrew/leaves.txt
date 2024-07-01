@@ -10,6 +10,8 @@ btop
 caffix/amass/amass
 cmake
 cmatrix
+defenseunicorns/tap/uds
+defenseunicorns/tap/zarf
 dog
 duf
 dust
