@@ -27,6 +27,10 @@ disabled = false
 detect_files = ['Dockerfile']
 format = '[$symbol$context( \($namespace\))]($style) '
 
+[python]
+symbol = '🐍 '
+style = 'bold yellow'
+
 [docker_context]
 disabled = true
 
